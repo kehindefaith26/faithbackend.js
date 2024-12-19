@@ -1,3 +1,4 @@
+//Simple Calculator
 const readline = require("readline");
 
 // Create an interface for user input
